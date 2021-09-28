@@ -1,0 +1,66 @@
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "145.4700",
+        "03. high": "145.9600",
+        "04. low": "143.8200",
+        "05. price": "145.3700",
+        "06. volume": "72232531",
+        "07. latest trading day": "2021-09-27",
+        "08. previous close": "146.9200",
+        "09. change": "-1.5500",
+        "10. change percent": "-1.0550%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "145.4700",
+        "03. high": "145.9600",
+        "04. low": "143.8200",
+        "05. price": "145.3700",
+        "06. volume": "74150729",
+        "07. latest trading day": "2021-09-27",
+        "08. previous close": "146.9200",
+        "09. change": "-1.5500",
+        "10. change percent": "-1.0550%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "296.1400",
+        "03. high": "296.4700",
+        "04. low": "292.9449",
+        "05. price": "294.1700",
+        "06. volume": "23571742",
+        "07. latest trading day": "2021-09-27",
+        "08. previous close": "299.3500",
+        "09. change": "-5.1800",
+        "10. change percent": "-1.7304%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "SONY",
+        "02. open": "117.0800",
+        "03. high": "117.5300",
+        "04. low": "115.9600",
+        "05. price": "116.2700",
+        "06. volume": "629491",
+        "07. latest trading day": "2021-09-27",
+        "08. previous close": "117.6100",
+        "09. change": "-1.3400",
+        "10. change percent": "-1.1394%"
+    }
+}{
+    "Global Quote": {
+        "01. symbol": "ZUMZ",
+        "02. open": "41.6200",
+        "03. high": "44.1000",
+        "04. low": "41.6200",
+        "05. price": "43.6100",
+        "06. volume": "265480",
+        "07. latest trading day": "2021-09-27",
+        "08. previous close": "41.3600",
+        "09. change": "2.2500",
+        "10. change percent": "5.4400%"
+    }
+}
